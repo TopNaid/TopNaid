@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TopNaid
+- 👋 Hi, I’m @Habeeb 
 - 👀 I’m interested Web, App, Software Development.
 - 🌱 Current area of interest HTML,CSS,JavaScript,Python, PostgresSQL
 - 💞️ I’m looking to collaborate on any project to aid improvement
